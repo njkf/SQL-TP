@@ -4,7 +4,7 @@ Pour ce TP, vous devrez au préalable avoir installé SQL SERVER, ainsi que la b
 
 Le fichier de génération de la base se trouve [ici](/Chinook.sql), et schéma [là](images/chinook-scheme.png).
 
-Vous trouverez la liste des des requetes a executer [ici](/TP-1-Questions.md).
+Vous trouverez la liste des des requetes a executer [ici](/TP1-Questions.md).
 
 
 
